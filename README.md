@@ -1,7 +1,7 @@
 # PAYDAY3
 
 This project is based on MoolahProject.  
-https://github.com/MoolahModding/MoolahProject/tree/asset-gen  
+https://github.com/MoolahModding/MoolahProject
 
 Used several UE project from other github pages.  
 
