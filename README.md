@@ -1,4 +1,5 @@
 # PAYDAY3
+Use it whatever you want :)
 
 This project is based on MoolahProject.  
 https://github.com/MoolahModding/MoolahProject
