@@ -1,5 +1,6 @@
 # PAYDAY3
-Use it whatever you want :)
+Use it whatever you want :) My mods path is
+MoolahProject-ModLoader/Content/Mods/_LesnovMods/
 
 This project is based on MoolahProject.  
 https://github.com/MoolahModding/MoolahProject
