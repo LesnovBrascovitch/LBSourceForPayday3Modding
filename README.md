@@ -2,8 +2,9 @@
 Use it whatever you want :) My mods path is  
 MoolahProject-ModLoader/Content/Mods/_LesnovMods/
 
-This project is based on MoolahProject.  
-https://github.com/MoolahModding/MoolahProject
+This project is based on MoolahProject and Wednesday's asset gen.  
+https://github.com/MoolahModding/MoolahProject  
+https://github.com/WednesdayMWS/MoolahProject-Full-Assets-Public  
 
 Used several UE project from other github pages.  
 
